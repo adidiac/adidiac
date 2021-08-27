@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diac Adrian</h1>
-<h3 align="center">I'm student passionate about computer science</h3>
+<h3 align="center">I'm a student passionate about computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adidiac&label=Profile%20views&color=0e75b6&style=flat" alt="adidiac" /> </p>
 
